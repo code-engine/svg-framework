@@ -4,6 +4,10 @@
   "version": "1.0.0",
   "description": "A framework for using SVG in JavaScript / TypeScript",
   "workspaces": ["packages/*"],
+  "files": [
+    "packages/*",
+    "index.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/code-engine/svg-framework.git"
   },
-  "author": "",
+  "author": "Code Engine",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/code-engine/svg-framework/issues"
