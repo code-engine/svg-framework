@@ -1,0 +1,16 @@
+{
+  "name": "svg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "curve_shaping.js",
+    "curve_utils.js",
+    "elements.js",
+    "index.js",
+    "rectangle_utils.js"
+  ],
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

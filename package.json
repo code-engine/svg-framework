@@ -1,0 +1,20 @@
+{
+  "name": "svg-framework",
+  "packageManager": "yarn@4.5.2",
+  "version": "1.0.0",
+  "description": "A framework for using SVG in JavaScript / TypeScript",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-engine/svg-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-engine/svg-framework/issues"
+  },
+  "homepage": "https://github.com/code-engine/svg-framework#readme"
+}

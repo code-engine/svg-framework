@@ -1,0 +1,13 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "files": [
+    "index.js",
+    "utils.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
