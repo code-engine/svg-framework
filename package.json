@@ -1,7 +1,7 @@
 {
   "name": "svg-framework",
   "packageManager": "yarn@4.5.2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A framework for using SVG in JavaScript / TypeScript",
   "workspaces": ["packages/*"],
   "files": [
